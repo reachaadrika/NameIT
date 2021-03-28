@@ -1,0 +1,30 @@
+.search
+{
+    display:flex;
+    justify-content:center;
+    
+}
+
+.searchIp
+{
+    padding:8px 15px;
+    font-size:15px;
+     width:250px;
+    border-width:0px;
+    background:#a592f2;
+    color:white;
+    border-radius:50px;
+    border-style:hidden;
+    box-shadow: 0 0 5px gray;
+
+}
+.searchIp ::placeholder
+{
+    color:white;
+}
+
+.searchIp :focus
+{
+    outline:none;
+}
+

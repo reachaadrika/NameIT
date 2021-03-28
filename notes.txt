@@ -1,0 +1,22 @@
+STATE :NOTHING BUT A JS OBJECT THAT YOU MIGHT WANT TO CHANGE IN FUTURE 
+for rendering or for performing any operation 
+react uses js object to implement state
+ js object:key value pair
+state should have same name 
+changing the state manually does n't re render (NEVER DO  THIS)
+
+INSTEAD USE SETSTATE FUNCTIOn
+this.setState (pass value of new state)
+
+old way to dec state :
+constructor()
+super()
+this.state ={
+hdhhsj
+}
+
+PROPS : DATA THAT WE CAN TRANSPORT /COMM FROM PARENT TO CHILD COMPONENT
+CLASS COMP: this.props. name of prop
+fun:pass down as an arg
+
+
